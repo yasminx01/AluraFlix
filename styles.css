@@ -1,19 +1,19 @@
 body {
-     color:antiquewhite;
-     background: black;
+     color:rgb(126, 132, 207);
+     background: rgb(73, 136, 245);
      margin: 0px;
      font-family: "Yarndings 20", system-ui,;
      margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2xp rgb(42, 122, 228);
+    border-bottom: solid 2xp rgb(121, 171, 237);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(111, 157, 218);
 }
 .chamada{
-    background: rgb( 184, 156, 213);
+    background: rgb(198, 211, 242);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -52,9 +52,9 @@ p{
 
 .categoria-videos img:houver{
     opacity: 1.0;
-    border: 3px solid greenyellow;
+    border: 3px solid rgb(0, 0, 0);
 }
 
 .categoria h2{
-    color: rgb(42, 122, 228));
+    color: rgb(170, 206, 253));
 }
